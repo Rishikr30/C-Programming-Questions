@@ -10,7 +10,7 @@ This repository contains **65+ C programming practice questions** along with the
 - **Diverse Topics**: Questions cover various aspects of C programming, including loops, functions, arrays, pointers, structures, file handling, and more.
 
 ### How to Use
-1. **Clone the Repository**: `git clone https://github.com/your-username/C-Programming-Questions.git`
+1. **Clone the Repository**: `git clone https://github.com/Rishikr30/C-Programming-Questions.git`
 2. **Explore the Questions**: Navigate through the questions and try solving them on your own.
 3. **Check Solutions**: Refer to the provided solutions to understand different approaches and improve your coding skills.
 
